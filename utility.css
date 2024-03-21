@@ -19,3 +19,7 @@
     background-color: black;
     color: white;
 }
+
+.invert{
+    filter: invert(1);
+}
