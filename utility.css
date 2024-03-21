@@ -14,3 +14,8 @@
 .item-center {
     align-items: center;
 }
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
