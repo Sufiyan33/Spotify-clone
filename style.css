@@ -3,9 +3,12 @@
     padding: 0;
 }
 
+.home{
+    padding: 10px;
+}
 .left{
     width: 25vw;
-    padding: 20px;
+    padding: 10px;
 }
 
 .right{
@@ -17,4 +20,5 @@
     gap: 11px;
     width: 15px;
     list-style: none;
+    padding-top: 14px;
 }
