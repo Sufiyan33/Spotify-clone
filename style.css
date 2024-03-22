@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body{
+    background-color: black;
+    color: white;
+}
+
 .home{
     padding: 10px;
 }
@@ -23,6 +28,10 @@
     padding-top: 14px;
 }
 
+.library{
+    min-height: 80vh;
+    position: relative;
+}
 .heading{
     gap: 11px;
     padding-top: 14px;
@@ -35,4 +44,15 @@
 
 .heading h2{
     font-size: 20px;
+}
+
+.footer{
+    font-size: 10px;
+    gap: 5px;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer a{
+    color: rgb(152, 149, 149);
 }
