@@ -130,3 +130,17 @@ body{
     font-size: 0.9rem;
     color: white;
 }
+
+.loginbtn {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 79px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.loginbtn:hover {
+    font-size: 0.9rem;
+}
