@@ -19,6 +19,7 @@ body{
 .right{
     width: 75vw;
     margin: 16px 0;
+    position: relative;
 }
 
 .home ul li{
@@ -143,4 +144,12 @@ body{
 
 .loginbtn:hover {
     font-size: 0.9rem;
+}
+
+.playbar{
+    position: absolute;
+    bottom: 0;
+    background-color: lightgreen;
+    width: 100%;
+    padding: 10px;
 }
